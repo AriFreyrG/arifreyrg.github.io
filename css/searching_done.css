@@ -1,0 +1,104 @@
+.version.searching_done /* version checker */
+{
+	color: #0000E8;
+	background-color: #F3E475;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 438px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u173
+{
+	z-index: 2;
+	width: 920px;
+	padding-bottom: 168px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 20px;
+	background: transparent url("../images/handvirk_leitlokid.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u416
+{
+	z-index: 7;
+	width: 32px;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 160px;
+	left: 54px;
+	background: transparent url("../images/up_arrow.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u418-4
+{
+	z-index: 9;
+	width: 37px;
+	min-height: 27px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 181px;
+	left: 92px;
+}
+
+#u415-4
+{
+	z-index: 3;
+	width: 312px;
+	min-height: 23px;
+	background-color: transparent;
+	font-size: 24px;
+	line-height: 29px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
+	left: 450px;
+}
+
+#u417
+{
+	z-index: 8;
+	width: 32px;
+	height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 74px;
+	background: transparent url("../images/down_arrow.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

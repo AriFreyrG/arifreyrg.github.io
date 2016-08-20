@@ -1,0 +1,63 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1471710750871">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="handvirkleit_listi.css" crc="193687066" ref="handvirkleit_listi"/>
+    <file name="searching_done.css" crc="3908297845" ref="searching_done"/>
+    <file name="searching_1.css" crc="4156637146" ref="searching_1"/>
+    <file name="dagskr_.css" crc="200127302" ref="dagskrá"/>
+    <file name="itslocked.css" crc="3828216456" ref="itslocked"/>
+    <file name="pin_nopinentered.css" crc="3906685959" ref="pin_nopinentered"/>
+    <file name="handvirkleit_manyselected.css" crc="424196606" ref="handvirkleit_manyselected"/>
+    <file name="handvirkleitloki_.css" crc="175591753" ref="handvirkleitlokið"/>
+    <file name="kerfisleit_on.css" crc="4140858794" ref="kerfisleit_on"/>
+    <file name="manualleit_selected.css" crc="4239197526" ref="manualleit_selected"/>
+    <file name="index.css" crc="4142723035" ref="index"/>
+    <file name="handvirkleit_kerfisleit.css" crc="4251245162" ref="handvirkleit_kerfisleit"/>
+    <file name="searching_2.css" crc="264788881" ref="searching_2"/>
+    <file name="endurradalista.css" crc="3838415871" ref="endurradalista"/>
+    <file name="autoleit_selected.css" crc="4044081627" ref="autoleit_selected"/>
+    <file name="untitled-9.css" crc="3832319048" ref="untitled-9"/>
+    <file name="uppsetning.css" crc="75107644" ref="uppsetning"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+    <file name="museutils.js" crc="183364071" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+  </folder>
+  <folder name="images">
+    <file name="menu_default.jpg" crc="474419206" ref="index"/>
+    <file name="up_arrow.jpg" crc="3975468158" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+    <file name="down_arrow.jpg" crc="4102671261" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið"/>
+    <file name="menu_autoleit_selected.jpg" crc="3784485239" ref="autoleit_selected"/>
+    <file name="menu_manualleit_selected.jpg" crc="4213493239" ref="manualleit_selected"/>
+    <file name="valmynd_locked.jpg" crc="3949260982" ref="pin_nopinentered:itslocked"/>
+    <file name="kerfistleit_on.jpg" crc="3901134416" ref="kerfisleit_on"/>
+    <file name="office lens 20160820-112540.jpg" crc="389579762" ref="searching_1"/>
+    <file name="office lens 20160820-112701.jpg" crc="263650604" ref="searching_2"/>
+    <file name="handvirk_leitlokid.jpg" crc="3886841155" ref="searching_done:handvirkleitlokið"/>
+    <file name="menu_dagskra_selected.jpg" crc="41488265" ref="dagskrá"/>
+    <file name="menu_endurrada_seleted.jpg" crc="3976321597" ref="endurradalista"/>
+    <file name="menu_uppsetning_selected.jpg" crc="4226471012" ref="uppsetning"/>
+    <file name="handvirkleit_listi.jpg" crc="104443168" ref="handvirkleit_listi"/>
+    <file name="handvirkleit_manyselected.jpg" crc="192141233" ref="handvirkleit_manyselected"/>
+    <file name="handvirkleit_kerfiseit.jpg" crc="67518124" ref="handvirkleit_kerfisleit"/>
+  </folder>
+  <file name="index.html" crc="3956083805" seo="true" mt="1471699560579" redirect="true"/>
+  <file name="autoleit_selected.html" crc="4262777271" seo="true" mt="1471706663262" redirect="true"/>
+  <file name="manualleit_selected.html" crc="38677041" seo="true" mt="1471706584775" redirect="true"/>
+  <file name="pin_nopinentered.html" crc="42733799" seo="true" mt="1471705198066" redirect="true"/>
+  <file name="kerfisleit_on.html" crc="179735732" seo="true" mt="1471699340742" redirect="true"/>
+  <file name="searching_1.html" crc="4167248643" seo="true" mt="1471699352591" redirect="true"/>
+  <file name="searching_2.html" crc="3847186253" seo="true" mt="1471699369966" redirect="true"/>
+  <file name="searching_done.html" crc="4035970403" seo="true" mt="1471706823193" redirect="true"/>
+  <file name="untitled-9.html" crc="373203810" seo="true" mt="1471696228208" redirect="true"/>
+  <file name="dagskrá.html" crc="469915810" seo="true" mt="1471699203289" redirect="true"/>
+  <file name="endurradalista.html" crc="148429653" seo="true" mt="1471699203126" redirect="true"/>
+  <file name="uppsetning.html" crc="123427336" seo="true" mt="1471699231540" redirect="true"/>
+  <file name="itslocked.html" crc="169799847" seo="true" mt="1471706353358" redirect="true"/>
+  <file name="handvirkleit_listi.html" crc="4171823723" seo="true" mt="1471706393504" redirect="true"/>
+  <file name="handvirkleit_manyselected.html" crc="326350094" seo="true" mt="1471706532292" redirect="true"/>
+  <file name="handvirkleit_kerfisleit.html" crc="3770541642" seo="true" mt="1471706532415" redirect="true"/>
+  <file name="handvirkleitlokið.html" crc="156978214" seo="true" mt="1471706881945" redirect="true"/>
+</manifest>
