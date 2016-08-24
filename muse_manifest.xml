@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1472060212125">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1472060409311">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="handvirkleit_listi.css" crc="518276595" ref="handvirkleit_listi"/>
@@ -38,7 +38,7 @@
     <file name="museutils.js" crc="183364071" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið:undir:undirb1:undira1:undirb2:undirb3:undirb4:undirb5:undira2:undira3:undira4:undira5:undira6:undira7"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið:undir:undirb1:undira1:undirb2:undirb3:undirb4:undirb5:undira2:undira3:undira4:undira5:undira6:undira7"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:autoleit_selected:manualleit_selected:pin_nopinentered:kerfisleit_on:searching_1:searching_2:searching_done:untitled-9:dagskrá:endurradalista:uppsetning:itslocked:handvirkleit_listi:handvirkleit_manyselected:handvirkleit_kerfisleit:handvirkleitlokið:undir:undirb1:undira1:undirb2:undirb3:undirb4:undirb5:undira2:undira3:undira4:undira5:undira6:undira7"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:undirb1"/>
   </folder>
   <folder name="images">
     <file name="menu_default.jpg" crc="3991963667" ref="index"/>
@@ -88,7 +88,7 @@
   <file name="handvirkleit_kerfisleit.html" crc="459440638" seo="true" mt="1472060183469" redirect="true"/>
   <file name="handvirkleitlokið.html" crc="363549728" seo="true" mt="1472060183469" redirect="true"/>
   <file name="undir.html" crc="4067336886" seo="true" mt="1472060183469" redirect="true"/>
-  <file name="undirb1.html" crc="40905885" seo="true" mt="1472060183469" redirect="true"/>
+  <file name="undirb1.html" crc="146023652" seo="true" mt="1472060388019" redirect="true"/>
   <file name="undira1.html" crc="97333638" seo="true" mt="1472060183469" redirect="true"/>
   <file name="undirb2.html" crc="3852049673" seo="true" mt="1472060183469" redirect="true"/>
   <file name="undirb3.html" crc="31472188" seo="true" mt="1472060183469" redirect="true"/>
