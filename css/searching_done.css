@@ -1,7 +1,7 @@
 .version.searching_done /* version checker */
 {
-	color: #0000E8;
-	background-color: #D2079F;
+	color: #00000D;
+	background-color: #EAD888;
 }
 
 .html
@@ -23,10 +23,64 @@
 	margin-right: auto;
 }
 
+#u173
+{
+	z-index: 24;
+	width: 585px;
+	height: 334px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/seraching_done.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#pu705
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 104px;
+	margin-left: 585px;
+}
+
+#u705
+{
+	z-index: 30;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/up_arrow.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u704
+{
+	z-index: 29;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
+	background-size: contain;
+}
+
+#u703-4
+{
+	z-index: 25;
+	width: 54px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 149px;
+	left: 647px;
+}
+
 #u721
 {
 	z-index: 2;
-	width: 246px;
+	width: 334px;
 	padding-bottom: 23px;
 	margin-right: -10000px;
 	margin-top: 20px;
@@ -36,80 +90,11 @@
 #u722-21
 {
 	z-index: 3;
-	width: 223px;
+	width: 303px;
 	min-height: 372px;
 	margin-right: -10000px;
 	margin-top: 23px;
-	left: 11px;
-}
-
-#u173
-{
-	z-index: 24;
-	width: 585px;
-	height: 334px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 20px;
-	background: transparent url("../images/handvirk_leitlokid.jpg") no-repeat center center;
-	background-size: contain;
-}
-
-#u415-4
-{
-	z-index: 25;
-	width: 312px;
-	min-height: 23px;
-	background-color: transparent;
-	font-size: 24px;
-	line-height: 29px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 122px;
-	left: 470px;
-}
-
-#u703-4
-{
-	z-index: 29;
-	width: 54px;
-	min-height: 37px;
-	background-color: transparent;
-	font-size: 30px;
-	line-height: 36px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 181px;
-	left: 667px;
-}
-
-#u704
-{
-	z-index: 33;
-	width: 62px;
-	height: 63px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 200px;
-	left: 605px;
-	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
-	background-size: contain;
-}
-
-#u705
-{
-	z-index: 34;
-	width: 62px;
-	height: 63px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 137px;
-	left: 605px;
-	background: transparent url("../images/up_arrow.png") no-repeat center center;
-	background-size: contain;
+	left: 16px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.dagskr_ /* version checker */
 {
-	color: #00001A;
-	background-color: #EE6CA8;
+	color: #0000E5;
+	background-color: #BC7A26;
 }
 
 .html
@@ -30,8 +30,7 @@
 	height: 334px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 20px;
+	margin-top: 1px;
 	background: transparent url("../images/menu_dagskra_selected.jpg") no-repeat center center;
 	background-size: contain;
 }
@@ -40,15 +39,15 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 124px;
-	margin-left: 605px;
+	margin-top: 106px;
+	margin-left: 585px;
 }
 
 #u642
 {
 	z-index: 30;
-	width: 62px;
-	height: 63px;
+	width: 60px;
+	height: 62px;
 	position: relative;
 	background: transparent url("../images/up_arrow.png") no-repeat center center;
 	background-size: contain;
@@ -57,52 +56,46 @@
 #u641
 {
 	z-index: 29;
-	width: 62px;
-	height: 63px;
+	width: 60px;
+	height: 62px;
 	position: relative;
 	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
 	background-size: contain;
 }
 
-#pu721
+#u640-4
 {
-	width: 0.01px;
+	z-index: 25;
+	width: 53px;
+	min-height: 36px;
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	margin-left: 667px;
+	margin-top: 149px;
+	left: 645px;
 }
 
 #u721
 {
 	z-index: 2;
-	width: 246px;
+	width: 334px;
 	padding-bottom: 23px;
 	margin-right: -10000px;
-	left: 47px;
+	margin-top: 20px;
+	left: 714px;
 }
 
 #u722-21
 {
 	z-index: 3;
-	width: 223px;
+	width: 303px;
 	min-height: 372px;
 	margin-right: -10000px;
 	margin-top: 23px;
-	left: 11px;
-}
-
-#u640-4
-{
-	z-index: 25;
-	width: 54px;
-	min-height: 37px;
-	background-color: transparent;
-	font-size: 30px;
-	line-height: 36px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 149px;
+	left: 16px;
 }
 
 body

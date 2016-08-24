@@ -1,7 +1,7 @@
 .version.undirb3 /* version checker */
 {
-	color: #000003;
-	background-color: #81BBFF;
+	color: #00001D;
+	background-color: #E891B9;
 }
 
 .html
@@ -30,8 +30,7 @@
 	height: 334px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	left: 20px;
+	margin-top: -6px;
 	background: transparent url("../images/upsettning_menu_-3.jpg") no-repeat center center;
 	background-size: contain;
 }
@@ -40,8 +39,8 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 124px;
-	margin-left: 605px;
+	margin-top: 98px;
+	margin-left: 585px;
 }
 
 #u690
@@ -64,45 +63,39 @@
 	background-size: contain;
 }
 
-#pu721
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	margin-left: 667px;
-}
-
-#u721
-{
-	z-index: 2;
-	width: 246px;
-	padding-bottom: 23px;
-	margin-right: -10000px;
-	left: 47px;
-}
-
-#u722-21
-{
-	z-index: 3;
-	width: 223px;
-	min-height: 372px;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 11px;
-}
-
 #u688-4
 {
 	z-index: 25;
 	width: 54px;
 	min-height: 37px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 149px;
+	margin-top: 143px;
+	left: 647px;
+}
+
+#u721
+{
+	z-index: 2;
+	width: 334px;
+	padding-bottom: 23px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 714px;
+}
+
+#u722-21
+{
+	z-index: 3;
+	width: 303px;
+	min-height: 372px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 16px;
 }
 
 body
