@@ -1,7 +1,7 @@
 .version.pin_nopinentered /* version checker */
 {
-	color: #0000E8;
-	background-color: #DB4C07;
+	color: #000007;
+	background-color: #A0BEB9;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 354px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 146px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,52 +26,57 @@
 #u115
 {
 	z-index: 2;
-	width: 920px;
-	padding-bottom: 170px;
+	width: 585px;
+	height: 334px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 20px;
 	left: 20px;
 	background: transparent url("../images/valmynd_locked.jpg") no-repeat center center;
 	background-size: contain;
 }
 
-#u220
+#pu657
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 124px;
+	margin-left: 605px;
+}
+
+#u657
+{
+	z-index: 8;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/up_arrow.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u656
+{
+	z-index: 7;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
+	background-size: contain;
+}
+
+#u655-4
 {
 	z-index: 3;
-	width: 32px;
-	height: 28px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 162px;
-	left: 41px;
-	background: transparent url("../images/up_arrow.jpg") no-repeat center center;
-	background-size: contain;
-}
-
-#u222-4
-{
-	z-index: 5;
-	width: 37px;
-	min-height: 27px;
+	width: 54px;
+	min-height: 37px;
 	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 183px;
-	left: 79px;
-}
-
-#u221
-{
-	z-index: 4;
-	width: 32px;
-	height: 29px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 252px;
-	left: 61px;
-	background: transparent url("../images/down_arrow.jpg") no-repeat center center;
-	background-size: contain;
+	margin-top: 169px;
+	left: 667px;
 }
 
 body

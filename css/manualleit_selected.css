@@ -1,7 +1,7 @@
 .version.manualleit_selected /* version checker */
 {
-	color: #0000FC;
-	background-color: #AD0556;
+	color: #000019;
+	background-color: #B2CFB0;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 354px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 146px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,52 +26,57 @@
 #u102
 {
 	z-index: 2;
-	width: 920px;
-	padding-bottom: 169px;
+	width: 585px;
+	height: 334px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 20px;
 	left: 20px;
 	background: transparent url("../images/menu_manualleit_selected.jpg") no-repeat center center;
 	background-size: contain;
 }
 
-#u316
+#pu651
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 124px;
+	margin-left: 605px;
+}
+
+#u651
+{
+	z-index: 8;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/up_arrow.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u650
+{
+	z-index: 7;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
+	background-size: contain;
+}
+
+#u649-4
 {
 	z-index: 3;
-	width: 32px;
-	height: 28px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 161px;
-	left: 47px;
-	background: transparent url("../images/up_arrow.jpg") no-repeat center center;
-	background-size: contain;
-}
-
-#u318-4
-{
-	z-index: 5;
-	width: 37px;
-	min-height: 27px;
+	width: 54px;
+	min-height: 37px;
 	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 182px;
-	left: 85px;
-}
-
-#u317
-{
-	z-index: 4;
-	width: 32px;
-	height: 29px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 251px;
-	left: 67px;
-	background: transparent url("../images/down_arrow.jpg") no-repeat center center;
-	background-size: contain;
+	margin-top: 169px;
+	left: 667px;
 }
 
 body

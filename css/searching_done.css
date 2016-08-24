@@ -1,7 +1,7 @@
 .version.searching_done /* version checker */
 {
-	color: #0000E8;
-	background-color: #F3E475;
+	color: #000014;
+	background-color: #5EDFCB;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 354px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 146px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,39 +26,14 @@
 #u173
 {
 	z-index: 2;
-	width: 920px;
-	padding-bottom: 168px;
+	width: 585px;
+	height: 334px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 20px;
 	left: 20px;
 	background: transparent url("../images/handvirk_leitlokid.jpg") no-repeat center center;
 	background-size: contain;
-}
-
-#u416
-{
-	z-index: 7;
-	width: 32px;
-	height: 28px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 160px;
-	left: 54px;
-	background: transparent url("../images/up_arrow.jpg") no-repeat center center;
-	background-size: contain;
-}
-
-#u418-4
-{
-	z-index: 9;
-	width: 37px;
-	min-height: 27px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 181px;
-	left: 92px;
 }
 
 #u415-4
@@ -72,20 +47,48 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 60px;
-	left: 450px;
+	margin-top: 122px;
+	left: 470px;
 }
 
-#u417
+#u703-4
 {
-	z-index: 8;
-	width: 32px;
-	height: 29px;
+	z-index: 7;
+	width: 54px;
+	min-height: 37px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 250px;
-	left: 74px;
-	background: transparent url("../images/down_arrow.jpg") no-repeat center center;
+	margin-top: 181px;
+	left: 667px;
+}
+
+#u704
+{
+	z-index: 11;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 200px;
+	left: 605px;
+	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
+	background-size: contain;
+}
+
+#u705
+{
+	z-index: 12;
+	width: 62px;
+	height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 137px;
+	left: 605px;
+	background: transparent url("../images/up_arrow.png") no-repeat center center;
 	background-size: contain;
 }
 
