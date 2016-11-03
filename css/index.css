@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #64E9A7;
+	color: #0000E6;
+	background-color: #A833CF;
 }
 
 .html
@@ -13,88 +13,87 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 481px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+#u736
+{
+	z-index: 2;
+	width: 459px;
+	height: 460px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 571px;
+}
+
 #u75
 {
-	z-index: 24;
-	width: 585px;
-	height: 334px;
+	z-index: 3;
+	width: 187px;
 	position: relative;
 	margin-right: -10000px;
+	padding: 111px 115px 120.19999999999999px 283px;
 	background: transparent url("../images/menu_default.jpg") no-repeat center center;
 	background-size: contain;
 }
 
-#pu636
+#u744
 {
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 104px;
-	margin-left: 585px;
-}
-
-#u636
-{
-	z-index: 30;
-	width: 60px;
-	height: 62px;
+	z-index: 4;
+	width: 187px;
+	height: 15px;
 	position: relative;
-	background: transparent url("../images/up_arrow.png") no-repeat center center;
-	background-size: contain;
 }
 
-#u635
+#u745
 {
-	z-index: 29;
-	width: 60px;
-	height: 62px;
+	z-index: 5;
+	width: 76px;
+	height: 13px;
+	margin-top: 9px;
 	position: relative;
-	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
-	background-size: contain;
 }
 
-#u634-4
+#u746
 {
-	z-index: 25;
-	width: 53px;
-	min-height: 36px;
-	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
-	font-weight: bold;
+	z-index: 6;
+	width: 100px;
+	height: 10px;
+	margin-top: 9px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 147px;
-	left: 645px;
 }
 
-#u721
+#u747
 {
-	z-index: 2;
-	width: 334px;
-	padding-bottom: 23px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 714px;
+	z-index: 7;
+	width: 108px;
+	height: 16px;
+	margin-top: 7px;
+	position: relative;
 }
 
-#u722-21
+#u748
 {
-	z-index: 3;
-	width: 303px;
-	min-height: 372px;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 16px;
+	z-index: 8;
+	width: 108px;
+	height: 18px;
+	margin-top: 6px;
+	position: relative;
+}
+
+.ie #u744,.ie #u745,.ie #u746,.ie #u747,.ie #u748
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 body

@@ -1,7 +1,7 @@
 .version.endurradalista /* version checker */
 {
-	color: #00001F;
-	background-color: #00E491;
+	color: #00000D;
+	background-color: #41EF72;
 }
 
 .html
@@ -13,90 +13,127 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 481px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u272
+#u736
 {
-	z-index: 24;
-	width: 585px;
-	height: 334px;
-	position: relative;
+	z-index: 2;
+	width: 50px;
 	margin-right: -10000px;
-	background: transparent url("../images/menu_endurrada_seleted.jpg") no-repeat center center;
-	background-size: contain;
-}
-
-#pu639
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 104px;
-	margin-left: 585px;
+	margin-top: 20px;
+	left: 571px;
+	padding: 207px 213px 195.00000000000006px 196px;
 }
 
 #u639
 {
-	z-index: 30;
-	width: 62px;
-	height: 62px;
+	z-index: 5;
+	width: 48px;
+	height: 9px;
+	margin-left: 2px;
 	position: relative;
-	background: transparent url("../images/up_arrow.png") no-repeat center center;
+	background: transparent url("../images/up_arrow-u648-fr.png") no-repeat center center;
 	background-size: contain;
+}
+
+#u775
+{
+	z-index: 11;
+	width: 43px;
+	height: 11px;
+	margin-top: 14px;
+	position: relative;
 }
 
 #u638
 {
-	z-index: 29;
-	width: 62px;
-	height: 62px;
-	top: -1px;
-	margin-bottom: -1px;
+	z-index: 4;
+	width: 48px;
+	height: 9px;
+	margin-top: 15px;
 	position: relative;
-	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
+	background: transparent url("../images/down_arrow%20(2)-u647-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
-#u637-4
-{
-	z-index: 25;
-	width: 54px;
-	min-height: 37px;
-	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 148px;
-	left: 647px;
-}
-
-#u721
-{
-	z-index: 2;
-	width: 334px;
-	padding-bottom: 23px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 714px;
-}
-
-#u722-21
+#u272
 {
 	z-index: 3;
-	width: 303px;
-	min-height: 372px;
+	width: 242px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 23px;
-	left: 16px;
+	padding: 85px 58px 122.20000000000005px 285px;
+	background: transparent url("../images/menu_endurrada_seleted.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u794
+{
+	z-index: 12;
+	width: 152px;
+	height: 19px;
+	position: relative;
+}
+
+#u749
+{
+	z-index: 6;
+	width: 242px;
+	height: 15px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u750
+{
+	z-index: 7;
+	width: 76px;
+	height: 13px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u751
+{
+	z-index: 8;
+	width: 100px;
+	height: 10px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u752
+{
+	z-index: 9;
+	width: 108px;
+	height: 16px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u753
+{
+	z-index: 10;
+	width: 108px;
+	height: 18px;
+	margin-top: 6px;
+	position: relative;
+}
+
+.ie #u775,.ie #u794,.ie #u749,.ie #u750,.ie #u751,.ie #u752,.ie #u753
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
 }
 
 body

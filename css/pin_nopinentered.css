@@ -1,7 +1,7 @@
 .version.pin_nopinentered /* version checker */
 {
 	color: #000012;
-	background-color: #9C6AF3;
+	background-color: #216AC7;
 }
 
 .html
@@ -13,19 +13,67 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 438px;
+	min-height: 481px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 62px;
+	padding-bottom: 19px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+#u736
+{
+	z-index: 2;
+	width: 48px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 571px;
+	padding: 207px 213px 196px 198px;
+}
+
+#u657
+{
+	z-index: 5;
+	width: 48px;
+	height: 9px;
+	position: relative;
+	background: transparent url("../images/up_arrow-u648-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u783
+{
+	z-index: 6;
+	width: 40px;
+	height: 16px;
+	margin-top: 10px;
+	position: relative;
+}
+
+.ie #u783
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u656
+{
+	z-index: 4;
+	width: 48px;
+	height: 9px;
+	margin-top: 13px;
+	position: relative;
+	background: transparent url("../images/down_arrow%20(2)-u647-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
 #u115
 {
-	z-index: 24;
+	z-index: 3;
 	width: 585px;
 	height: 334px;
 	position: relative;
@@ -33,69 +81,6 @@
 	margin-top: -4px;
 	background: transparent url("../images/valmynd_locked.jpg") no-repeat center center;
 	background-size: contain;
-}
-
-#pu657
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 100px;
-	margin-left: 585px;
-}
-
-#u657
-{
-	z-index: 30;
-	width: 62px;
-	height: 63px;
-	position: relative;
-	background: transparent url("../images/up_arrow.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u656
-{
-	z-index: 29;
-	width: 62px;
-	height: 63px;
-	position: relative;
-	background: transparent url("../images/down_arrow%20(2).png") no-repeat center center;
-	background-size: contain;
-}
-
-#u655-4
-{
-	z-index: 25;
-	width: 54px;
-	min-height: 37px;
-	background-color: transparent;
-	line-height: 36px;
-	font-size: 30px;
-	font-weight: bold;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 145px;
-	left: 647px;
-}
-
-#u721
-{
-	z-index: 2;
-	width: 334px;
-	padding-bottom: 23px;
-	margin-right: -10000px;
-	margin-top: 20px;
-	left: 714px;
-}
-
-#u722-21
-{
-	z-index: 3;
-	width: 303px;
-	min-height: 372px;
-	margin-right: -10000px;
-	margin-top: 23px;
-	left: 16px;
 }
 
 body
